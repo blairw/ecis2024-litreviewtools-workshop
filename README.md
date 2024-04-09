@@ -32,11 +32,11 @@ We will have a break somewhere in the middle. Total run time of the workshop wit
 
 ## Who are the workshop chairs?
 
-- Sebastian Boell, University of Sydney
-- Julian Prester, University of Sydney
-- Gerit Wagner, University of Bamberg
-- Blair Wang, University of Galway (main contact)
-- Sander Zwanenburg, University of Otago
+- [Sebastian Boell](https://www.sydney.edu.au/business/about/our-people/academic-staff/sebastian.boell.html), University of Sydney
+- [Julian Prester](https://julianprester.com/), University of Sydney
+- [Gerit Wagner](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/), University of Bamberg
+- [Blair Wang](https://www.blair.wang/), University of Galway (main contact)
+- [Sander Zwanenburg](https://www.otago.ac.nz/info-science/about/sander-zwanenburg), University of Otago
 
 Names are listed in alphabetical order by surname; our interest and commitment to the workshop is equal. For queries about LitBaskets please contact Sebastian or Blair. For queries about PermuSearch please contact Sander. For queries about CoLRev please contact Gerit or Julian.
 
