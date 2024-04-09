@@ -2,6 +2,8 @@
 
 <img src="assets/ecisbanner.png" style="width: 500px; max-width: 80%;" />
 
+For more information about ECIS 2024: [https://ecis2024.eu/](https://ecis2024.eu/)
+
 Overview: _"As academic literature continues to grow, conducting a literature review can be a daunting, ill-defined, and disorienting process. This workshop focuses on three open source tools, which collectively support the search and review of IS literature. First, with LitBaskets you will learn to easily examine the IS journal literature with varying degrees of scope. Second, with PermuSearch you will learn to automate a search using multiple lists of topics, journals, or years. Third, with CoLRev you will learn to efficiently manage the workflow of screening records, retrieving full-text articles and reporting results as part of a team. Mastery of these three tools will benefit your literature navigation skills in an increasingly growing and complex web of literature. Furthermore, all three of these tools are developed by the IS community, for the IS community: with representation from all three development teams amongst the workshop organisers."_
 
 ## Why should I attend this workshop?
