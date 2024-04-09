@@ -4,8 +4,8 @@ Overview: _"As academic literature continues to grow, conducting a literature re
 
 ## Why should I attend this workshop?
 
-- ✨ Learn how to effectively use three useful and innovative tools for literature review "by the IS community, for the IS community".
-- 🤗 "Come as you are" approach: there is **no prior submission required**, you can just come with your laptop and with a curious mind.
+- ✨ Learn how to effectively use three innovative tools for literature review "by the IS community, for the IS community".
+- 🤗 "Come as you are": there is **no prior submission required**, you can just come with your laptop and with a curious mind.
 - 📚 Join the conversation about literature review best practices, approaches, and techniques in general.
 - 💬 Participate in the conversation that will inform our future development of these tools.
 - 🙏 Opportunities for collaboration: if you are also interested in working towards tools that assist with literature review in IS.
