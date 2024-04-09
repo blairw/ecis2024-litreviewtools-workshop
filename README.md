@@ -16,7 +16,11 @@ Overview: _"As academic literature continues to grow, conducting a literature re
 
 ## How can I sign up for the workshop?
 
-TBC
+When you are on Step 04 of the sign-up process, be sure to select Quantity = 1 for workshop A3:
+
+<img src="assets/HowToSignUp.png" style="width: 1000px; max-width: 100%;" />
+
+Please note that you will need to have paid for Workshop Registration in Step 03. We will be doing our best to help you get your money's worth. 😃
 
 ## How can I find out more about the three tools?
 
