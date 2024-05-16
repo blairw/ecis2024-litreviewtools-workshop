@@ -28,7 +28,7 @@ Great idea! Whilst the workshop is introductory and you do not need to have used
 
 - LitBaskets: please visit homepage [www.litbaskets.io](https://www.litbaskets.io/). GitHub: [blairw/litbaskets](https://github.com/blairw/litbaskets)
 - PermuSearch: please visit homepage [permusearch.com](http://permusearch.com/). GitHub: [spzwanenburg/PermuSearch](https://github.com/spzwanenburg/PermuSearch)
-- CoLRev: please visit [colrev.readthedocs.io](https://colrev.readthedocs.io/). GitHub:[CoLRev-Environment/colrev](https://github.com/CoLRev-Environment/colrev)
+- CoLRev: please visit [colrev.readthedocs.io](https://colrev.readthedocs.io/). GitHub: [CoLRev-Environment/colrev](https://github.com/CoLRev-Environment/colrev)
 
 ## What is the outline of the workshop?
 
@@ -56,9 +56,7 @@ To get the most out of the workshop, we recommend that you bring a laptop that m
 
 - Working Internet connection and web browser
 - Working installation of Microsoft Excel or similar compatible spreadsheet software
-- If possible, a working installation of CoLRev
-  - You will need a working bash/zsh style command line terminal. On Linux, this is built into the operating system. On Mac, you can use Terminal.app. On Windows, you can use the Windows Subsystem for Linux (WSL).
-  - After installing Git (required) and Docker (optional, but recommended), please follow the further instructions at https://colrev.readthedocs.io/
+- For the CoLRev portion of the workshop, it is advised that you sign up for a GitHub account: https://github.com/signup
 
 ## Submission Link/Site/E-mail:
 
