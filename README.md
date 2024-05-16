@@ -56,7 +56,7 @@ To get the most out of the workshop, we recommend that you bring a laptop that m
 
 - Working Internet connection and web browser
 - Working installation of Microsoft Excel or similar compatible spreadsheet software
-- For the CoLRev portion of the workshop, it is advised that you sign up for a GitHub account: https://github.com/signup
+- For the CoLRev portion of the workshop, it is advised that you sign up for a GitHub account: [https://github.com/signup](https://github.com/signup)
 
 ## Submission Link/Site/E-mail:
 
